@@ -6,5 +6,5 @@ def say_message(greeted)
 end
 
 10.times do |step|
-  say_message (step)
+  say_message (step + )
 end
